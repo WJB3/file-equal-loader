@@ -1,0 +1,23 @@
+{
+  "name": "file-equal-loader",
+  "version": "1.0.0",
+  "description": "webpack of file loader",
+  "main": "core/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WJB3/file-equal-loader.git"
+  },
+  "author": "wjb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WJB3/file-equal-loader/issues"
+  },
+  "homepage": "https://github.com/WJB3/file-equal-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.2.3",
+    "schema-utils": "^1.0.0"
+  }
+}
